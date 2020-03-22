@@ -2,7 +2,9 @@
 
 For starting project run command
 install dependencies
-    npm install
+
+npm install
 
 start the serve
-    npm start
+
+npm start
